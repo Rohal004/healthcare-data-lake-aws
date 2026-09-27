@@ -1,0 +1,9 @@
+Rules = [
+    IsPrimaryKey "patient_id",
+    IsComplete "name",
+    IsComplete "age",
+    ColumnValues "age" between 0 and 120,
+    ColumnValues "admission_date" matches "\d{4}-\d{2}-\d{2}",
+    ColumnValues "gender" in ["M", "F"],
+    ColumnValues "hospital_id" in ["HOSP_A", "HOSP_B", "HOSP_C"]
+]

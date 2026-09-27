@@ -1,0 +1,8 @@
+patient_id,name,age,gender,admission_date,diagnosis,hospital_id
+P201,Hassan Raza,50,M,2024-03-01,Cardiac,HOSP_C
+P202,Amna Siddiqui,42,F,2024-03-02,Diabetes,HOSP_C
+P203,Junaid Iqbal,38,M,2024-03-03,Hypertension,HOSP_C
+P204,Laiba Khan,27,F,2024-03-04,Asthma,HOSP_C
+P205,Shahid Afridi,200,M,2024-03-05,Flu,HOSP_C
+P206,Mahnoor Baig,35,F,2024-03-06,Migraine,HOSP_C
+P207,Waqar Younis,47,M,2024-03-07,Cardiac,HOSP_C

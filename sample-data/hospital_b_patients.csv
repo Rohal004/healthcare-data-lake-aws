@@ -1,0 +1,9 @@
+patient_id,name,age,gender,admission_date,diagnosis,hospital_id
+P101,Imran Shah,60,M,2024-02-01,Cardiac,HOSP_B
+P102,Nida Iqbal,37,F,2024-02-02,Diabetes,HOSP_B
+P103,Faisal Khan,48,M,2024-02-03,Hypertension,HOSP_B
+P104,Maryam Javed,25,F,2024-02-04,Asthma,HOSP_B
+P105,Tariq Mehmood,55,M,2024-02-05,Cardiac,HOSP_B
+P106,Sana Aslam,,F,2024-02-06,Migraine,HOSP_B
+P107,Kamran Akhtar,44,M,2024-02-07,Flu,HOSP_B
+P108,Rabia Noor,31,F,2024-02-08,Diabetes,HOSP_B
